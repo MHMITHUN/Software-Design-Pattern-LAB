@@ -1,0 +1,11 @@
+# Ignore Refactoring Report
+Refactoring/Code_Smells_Report.md
+
+# Ignore IDE files
+.vscode/
+*.iml
+.idea/
+
+# Ignore compiled class files and output folders
+Refactoring/out/
+*.class
